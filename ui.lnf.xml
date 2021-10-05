@@ -1,0 +1,9 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="KeyboardSettings">
+    <option name="enabled" value="true" />
+  </component>
+</application>

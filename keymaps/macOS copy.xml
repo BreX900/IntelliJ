@@ -1,0 +1,19 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta numpad6" />
+    <keyboard-shortcut first-keystroke="shift ctrl numpad6" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="NextEditorTab" />
+  <action id="PreviousEditorTab" />
+</keymap>
