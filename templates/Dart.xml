@@ -4,21 +4,18 @@
     <variable name="Type" expression="&quot;Type&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="ReturnType" expression="&quot;ReturnType&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="methodName" expression="&quot;methodName&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="extensionOperator" value="extension $ExtensionName$ on $Type$ {&#10;  $ReturnType$ operator $ReturnType$($Type$ $variable_name$() {&#10;    &#10;  }&#10;}" description="Create operator extension" toReformat="false" toShortenFQNames="true">
     <variable name="ExtensionName" expression="&quot;ExtensionName&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="Type" expression="&quot;Type&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="ReturnType" expression="&quot;ReturnType&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="variable_name" expression="&quot;variable_name&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="extensionProperty" value="extension $ExtensionName$ on $Type$ {&#10;  $ReturnType$ get $propertyName$ {&#10;    &#10;  }&#10;}" description="Create property extension" toReformat="false" toShortenFQNames="true">
     <variable name="ExtensionName" expression="&quot;ExtensionName&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="Type" expression="&quot;Type&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="ReturnType" expression="&quot;ReturnType&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="propertyName" expression="&quot;propertyName&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="test_file" value="import 'package:get_it/get_it.dart';&#10;import 'package:mockito/mockito.dart';&#10;import 'package:test/test.dart';&#10;&#10;void main() {&#10;  late $NAME$ $name$;&#10;&#10;  setUp(() {&#10;    GetIt.instance..reset();&#10;  &#10;    $name$ = $NAME$;&#10;  });&#10;  &#10;  tearDown(() {&#10;    logInvocations([]);&#10;  });&#10;  &#10;  group('Test UpdatePaymentSession use case', () {&#10;    test('1', () {&#10;      $name$;&#10;    });&#10;  });&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
