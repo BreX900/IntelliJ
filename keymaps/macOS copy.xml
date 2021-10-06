@@ -16,4 +16,8 @@
   <action id="NewScratchFile" />
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
 </keymap>
