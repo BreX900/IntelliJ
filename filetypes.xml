@@ -18,9 +18,6 @@
       <mapping pattern="README-md" type="AUTO_DETECTED" />
       <mapping pattern="delete_message_response" type="AUTO_DETECTED" />
       <mapping pattern="connect_customer_to_payment_session_response" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
       <mapping pattern=".environments" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
@@ -35,6 +32,9 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
