@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="kuama_to_castelloTesino_route" type="AUTO_DETECTED" />
+      <mapping pattern="flutter_build" type="AUTO_DETECTED" />
       <mapping pattern="read_required_levels_response" type="AUTO_DETECTED" />
       <mapping pattern="Deployment" type="AUTO_DETECTED" />
       <mapping pattern="dart-define" type="AUTO_DETECTED" />
@@ -9,6 +10,7 @@
       <mapping pattern="dgph" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="create_payment_session_response" type="AUTO_DETECTED" />
+      <mapping pattern="upgrade_git_packages" type="AUTO_DETECTED" />
       <mapping pattern="BudinohDeploy" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="update_payment_session_response" type="AUTO_DETECTED" />
