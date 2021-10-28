@@ -6,6 +6,7 @@
       <mapping pattern="read_required_levels_response" type="AUTO_DETECTED" />
       <mapping pattern="Deployment" type="AUTO_DETECTED" />
       <mapping pattern="dart-define" type="AUTO_DETECTED" />
+      <mapping pattern="update_customer_request" type="AUTO_DETECTED" />
       <mapping pattern="kuama_to_castelloTesino_response" type="AUTO_DETECTED" />
       <mapping pattern="dgph" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="AUTO_DETECTED" />
