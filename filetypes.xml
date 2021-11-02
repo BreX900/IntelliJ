@@ -17,6 +17,7 @@
       <mapping pattern="update_payment_session_response" type="AUTO_DETECTED" />
       <mapping pattern="FirebaseDeploy" type="AUTO_DETECTED" />
       <mapping pattern="cancel_c2m_payment_response" type="AUTO_DETECTED" />
+      <mapping pattern="beneficiary_response" type="AUTO_DETECTED" />
       <mapping pattern="send_payment_response" type="AUTO_DETECTED" />
       <mapping pattern="README-md" type="AUTO_DETECTED" />
       <mapping pattern="delete_message_response" type="AUTO_DETECTED" />
