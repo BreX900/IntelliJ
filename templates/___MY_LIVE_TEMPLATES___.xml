@@ -92,4 +92,16 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="mck" value="class _Mock$NAME$ extends Mock implements $NAME$ {}" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="fk" value="class _Fake$NAME$ extends Fake implements $NAME$ {}" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
