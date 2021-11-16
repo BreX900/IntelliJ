@@ -104,4 +104,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="tryflr" value="try {&#10;  $END$&#10;} on Failure catch (failure) {&#10;  &#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
