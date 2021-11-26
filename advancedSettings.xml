@@ -2,6 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="git.use.push.force.with.lease" value="false" />
         <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
