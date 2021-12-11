@@ -5,13 +5,13 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.md" />
     <mask>*.dart</mask>
+    <mask>*.env*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.env*</mask>
     <mask>*.md</mask>
   </component>
 </application>
