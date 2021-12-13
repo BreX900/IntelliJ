@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.md" />
-    <mask>*.dart</mask>
+    <option name="FILE_MASK" value="*.dart" />
     <mask>*.env*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -13,5 +12,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.md</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
