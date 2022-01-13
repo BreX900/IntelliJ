@@ -11,6 +11,7 @@
       <mapping pattern="dgph" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="create_payment_session_response" type="AUTO_DETECTED" />
+      <mapping pattern="data_domain" type="AUTO_DETECTED" />
       <mapping pattern="upgrade_git_packages" type="AUTO_DETECTED" />
       <mapping pattern="BudinohDeploy" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
