@@ -122,6 +122,54 @@
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_command exists" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uAnim" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uAnimCont" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uContext" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uEffect" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uFuture" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uListenable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uMem" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uState" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uStream" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uValChanged" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uValListenable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="uValNotifier" />
+        </TemplateKey>
       </list>
     </option>
   </component>
