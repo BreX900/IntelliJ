@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pubspec.yaml" />
+    <option name="FILE_MASK" value="*.dart" />
     <mask>*.env*</mask>
     <mask>*.md</mask>
     <mask>*.css</mask>
@@ -12,7 +12,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.dart</mask>
     <mask>pubspec.yaml</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
