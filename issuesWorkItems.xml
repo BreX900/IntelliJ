@@ -2,7 +2,7 @@
   <component name="YouTrack IssuesWorkItems">
     <option name="persistentIssueWorkItems">
       <map>
-        <entry key="toonie BreX@https://portit.youtrack.cloud" value="[]" />
+        <entry key="toonie BreX@https://portit.youtrack.cloud" value="[{&quot;created&quot;:1655127204601,&quot;date&quot;:1655078400000,&quot;duration&quot;:{&quot;minutes&quot;:40,&quot;presentation&quot;:&quot;40m&quot;,&quot;$type&quot;:&quot;DurationValue&quot;},&quot;issue&quot;:{&quot;idReadable&quot;:&quot;TOONIE-1&quot;,&quot;$type&quot;:&quot;Issue&quot;},&quot;text&quot;:&quot;&quot;,&quot;type&quot;:{&quot;name&quot;:&quot;Development&quot;,&quot;$type&quot;:&quot;WorkItemType&quot;},&quot;author&quot;:{&quot;name&quot;:&quot;Simone Bressan&quot;,&quot;$type&quot;:&quot;User&quot;},&quot;creator&quot;:{&quot;name&quot;:&quot;Simone Bressan&quot;,&quot;$type&quot;:&quot;User&quot;},&quot;id&quot;:&quot;132-6&quot;,&quot;$type&quot;:&quot;IssueWorkItem&quot;}]" />
       </map>
     </option>
   </component>
