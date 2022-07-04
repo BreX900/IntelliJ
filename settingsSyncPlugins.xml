@@ -106,6 +106,7 @@
                   <option value="com.intellij.tasks" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
