@@ -25,6 +25,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="Docker">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="GrepConsole">
           <value>
             <PluginData>
