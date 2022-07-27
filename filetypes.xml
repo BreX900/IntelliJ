@@ -4,32 +4,32 @@
       <mapping pattern="kuama_to_castelloTesino_route" type="AUTO_DETECTED" />
       <mapping pattern="flutter_build" type="AUTO_DETECTED" />
       <mapping pattern="Deployment" type="AUTO_DETECTED" />
+      <mapping pattern="read_required_levels_response" type="AUTO_DETECTED" />
+      <mapping pattern="dart-define" type="AUTO_DETECTED" />
       <mapping pattern="update_customer_request" type="AUTO_DETECTED" />
       <mapping pattern="dgph" type="AUTO_DETECTED" />
+      <mapping pattern="kuama_to_castelloTesino_response" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="create_payment_session_response" type="AUTO_DETECTED" />
       <mapping pattern="data_domain" type="AUTO_DETECTED" />
+      <mapping pattern="upgrade_git_packages" type="AUTO_DETECTED" />
       <mapping pattern="BudinohDeploy" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="update_payment_session_response" type="AUTO_DETECTED" />
+      <mapping pattern="FirebaseDeploy" type="AUTO_DETECTED" />
       <mapping pattern="beneficiary_response" type="AUTO_DETECTED" />
       <mapping pattern="cancel_c2m_payment_response" type="AUTO_DETECTED" />
       <mapping pattern="index" type="AUTO_DETECTED" />
       <mapping pattern="send_payment_response" type="AUTO_DETECTED" />
-      <mapping pattern="read_required_levels_response" type="AUTO_DETECTED" />
-      <mapping pattern="dart-define" type="AUTO_DETECTED" />
-      <mapping pattern="kuama_to_castelloTesino_response" type="AUTO_DETECTED" />
-      <mapping pattern="upgrade_git_packages" type="AUTO_DETECTED" />
-      <mapping pattern="FirebaseDeploy" type="AUTO_DETECTED" />
       <mapping pattern="README-md" type="AUTO_DETECTED" />
       <mapping pattern="delete_message_response" type="AUTO_DETECTED" />
       <mapping pattern="connect_customer_to_payment_session_response" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".environments" type="PLAIN_TEXT" />
       <mapping pattern=".flutter-plugins" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern=".environments" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
