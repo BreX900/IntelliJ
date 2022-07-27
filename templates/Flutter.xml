@@ -12,6 +12,7 @@
   <template name="inh" value="class $NAME$ extends InheritedWidget {&#10;  const $NAME$({&#10;    Key? key,&#10;    required Widget child,&#10;  }) : super(key: key, child: child);&#10;&#10;  static $NAME$ of(BuildContext context) {&#10;    return context.dependOnInheritedWidgetOfExactType&lt;$NAME$&gt;()!;&#10;  }&#10;&#10;  @override&#10;  bool updateShouldNotify($NAME$ oldWidget) {&#10;    return $SHOULD_NOTIFY$;&#10;  }&#10;}" description="New Inherited widget" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SHOULD_NOTIFY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="stlesscon" value="class $NAME$ extends ConsumerWidget {&#10;  const $NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context, WidgetRef ref) {&#10;    return Container($END$);&#10;  }&#10;}&#10;" description="New Stateless widget" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
