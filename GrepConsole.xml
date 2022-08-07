@@ -35,6 +35,7 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
@@ -56,6 +57,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
@@ -76,6 +78,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
@@ -96,6 +99,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
@@ -111,6 +115,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
@@ -124,6 +129,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\\033\[33m.*" />
                       <option name="style">
                         <GrepStyle>
@@ -150,6 +156,7 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*║.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -165,6 +172,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[ED\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -181,6 +189,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[E\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -197,6 +206,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[EF\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -213,6 +223,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FINE.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
