@@ -17,9 +17,13 @@
           <option name="url" value="https://github.com/BreX900/form_bloc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git-codecommit.eu-west-1.amazonaws.com/v1/repos/multicerta-mobile-app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/projects/dart_flutter_packages" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/projects/multicerta" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
