@@ -115,7 +115,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="lll" value="import 'package:flutter_gen/gen_l10n/app_localizations.dart';&#10;final t = AppLocalizations.of(context)!;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="lll" value="import 'package:flutter_gen/gen_l10n/app_localizations.dart';&#10;final t = AppLocalizations.of(context)!;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="DART" value="true" />
     </context>
