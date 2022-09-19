@@ -1,5 +1,6 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
 </application>
